@@ -1,0 +1,7 @@
+https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering
+https://nextjs.org/learn/dashboard-app/streaming
+https://nextjs.org/learn/dashboard-app/partial-prerendering
+https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+https://nextjs.org/learn/dashboard-app/mutating-data
+https://nextjs.org/learn/dashboard-app/error-handling
+https://nextjs.org/learn/dashboard-app/improving-accessibility
